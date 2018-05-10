@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a8a511993e60d4067b25e6e6ae37247d
+timeCreated: 1459455626
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bubble1: {fileID: 137350, guid: f23f98122bfef410b97d3a35cca2588f, type: 2}
+  - bubble2: {fileID: 174930, guid: 115157ef2fb9849b5ba1b4ffc6f7371e, type: 2}
+  - mine: {fileID: 144812, guid: bfc96f1d8da7541448cd35c100c97e79, type: 2}
+  - diver: {instanceID: 0}
+  - cam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
